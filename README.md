@@ -27,8 +27,14 @@ This shows the top case, the PCB (middle blank rectangle), and the bottom, but s
 
 # BOM
 1x Case
+
 1x Seeed XIAO RP2040 (THT)
+
 4x Cherry-MX Switches
+
 4x SK6812 MINI-E LEDs
+
 4x DSA Keycaps
+
 4x M3x16mm Screws
+
