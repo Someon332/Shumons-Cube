@@ -2,7 +2,7 @@
 My take on hackpad!
 
 # CAD
-![image](https://github.com/user-attachments/assets/9571a972-4078-4934-af63-98d9d0328f42)
+![image](https://github.com/user-attachments/assets/ded2d574-e938-4823-b159-16c2be5c7cf6)
 Two seperately printed case parts (top and bottom) and the actual PCB. 
 It's very basic but I can always swap out the case lol. The PCB is pretty basic too, just the switches and 4 neopixels, but it's more than enough for my purposes (hotkeys). 
 
@@ -29,3 +29,5 @@ QMK!
 4x SK6812 MINI-E LEDs
 
 10x DSA Keycaps
+
+4x M3x16mm Screws
