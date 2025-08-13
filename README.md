@@ -31,3 +31,10 @@ QMK!
 10x DSA Keycaps
 
 4x M3x16mm Screws
+
+
+----------
+
+# IRL Photo
+
+<img width="1290" height="827" alt="image" src="https://github.com/user-attachments/assets/e8b06b66-4e77-4760-a55c-c2e4ad86df00" />
