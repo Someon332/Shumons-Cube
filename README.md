@@ -35,6 +35,10 @@ QMK!
 
 ----------
 
-# IRL Photo
+# IRL Photo and Demo
 
 <img width="1290" height="827" alt="image" src="https://github.com/user-attachments/assets/e8b06b66-4e77-4760-a55c-c2e4ad86df00" />
+
+![IMG_7106](https://github.com/user-attachments/assets/83e3a364-8f46-45c9-9932-a912a9e0f738)
+
+YT Video Link: 
