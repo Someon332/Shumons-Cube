@@ -41,4 +41,4 @@ QMK!
 
 ![IMG_7106](https://github.com/user-attachments/assets/83e3a364-8f46-45c9-9932-a912a9e0f738)
 
-YT Video Link: 
+YT Video Link: https://youtube.com/shorts/_0YjuRMz1Ag
